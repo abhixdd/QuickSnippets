@@ -62,3 +62,6 @@ npm start
 QuickSnippets is still under development, and contributions are welcome! Feel free to open issues or submit pull requests to improve the app.
 
 
+##  License
+
+This project is protected under the [MIT](https://opensource.org/license/mit) License. For more details, refer to the [LICENSE](https://github.com/abhixdd/QuickSnippets/blob/main/LICENSE.txt) file.
