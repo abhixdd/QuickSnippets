@@ -2,7 +2,7 @@
   <img src="build/icon.ico" width="100" />
 </p>
 <p align="center">
-    <h1 align="center">QUICKSNIPPETS</h1>
+    <h1 align="center">QUICKSNIPPETS</h1> 
 </p>
 <p align="center">
     <em>QuickSnippets is a simple and efficient code snippet manager designed to help developers save, organize, and access their favorite code snippets with ease.</em>
